@@ -1,8 +1,8 @@
 {
   "devDependencies": {
-    "eslint": "^5.8.0",
+    "eslint": "^5.12.1",
     "eslint-config-wordpress": "^2.0.0",
-    "stylelint": "^9.7.0",
+    "stylelint": "^9.10.1",
     "stylelint-config-wordpress": "^13.1.0"
   }
 }
