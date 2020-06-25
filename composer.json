@@ -1,5 +1,5 @@
 {
     "require-dev": {
-        "wp-coding-standards/wpcs": "^2.2"
+        "wp-coding-standards/wpcs": "^2.3"
     }
 }
